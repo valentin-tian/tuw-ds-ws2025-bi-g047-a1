@@ -1,0 +1,10 @@
+id,certificationname,certificationlevel,validity_months,description
+1,Basic Hardware Maintenance,Entry,36,Routine device maintenance
+2,Sensor Installation,Entry,24,Install sensors at locations
+3,Device Programming,Entry,12,Program devices with standard firmware
+4,Hardware Troubleshooting,Advanced,24,Fix hardware problems
+5,Firmware Updates,Advanced,12,Update device firmware
+6,Sensor Calibration,Advanced,12,Calibrate sensors correctly
+7,Advanced Diagnostics,Expert,24,Handle complex device diagnostics
+8,Calibration Specialist,Expert,12,Expert-level sensor calibration
+9,Critical Fault Analysis,Expert,12,Analyze and resolve critical device failures
